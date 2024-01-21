@@ -1,1 +1,16 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.alert {
+  color: rgb(29, 29, 28);
+  font-size: 30px;
+  background-color: white;
+  border-style: hidden;
+}
+#excuse {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+img {
+  width: 220px;
+  height: auto;
+}
